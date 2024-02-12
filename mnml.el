@@ -90,7 +90,7 @@
                     :underline nil)
 
 ;; SET THE MODE LINE
-(setq mode-line-format
+(setq-default mode-line-format
       '(""
 	mnml-module-evil-state
 	mnml-module-buffer-name
