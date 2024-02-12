@@ -15,6 +15,7 @@ Wanted to learn elisp and also wanted to make my modeline MNML `:)`
 
 ![Image](./images/ss.png)
 ![Image](./images/ss2.png)
+![Image](./images/ss3.png)
 
 
 # TODO
