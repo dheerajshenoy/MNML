@@ -36,6 +36,7 @@ MNML colors depend on the theme that is currently in use. The images above were 
 * [x] Add right aligned items
 * [x] Spaceous padding also, maybe ?
 * [ ] Extra Modules
+* [ ] Hover events
 
 # References
 
