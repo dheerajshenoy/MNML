@@ -24,9 +24,8 @@ Clone this repository to some folder and then add the following line of code in 
   (mnml-evil-state-minimal t))
 ```
 
-# How does it look ?
+# Screenshot
 
-![Image](./images/ss4.png)
 ![Image](./images/ss5.png)
 
 MNML colors depend on the theme that is currently in use. The images above were taken with the  `ef-day` theme from the [ef-themes](https://github.com/protesilaos/ef-themes) package
